@@ -31,11 +31,6 @@
 <!-- ![](./screenshot/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%20Recipe%20page%20-%20127.0.0.1.png) -->
 ![](./screenshot/chrome-capture-2024-7-24.gif)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
